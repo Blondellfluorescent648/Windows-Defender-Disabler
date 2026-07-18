@@ -2,7 +2,7 @@
 
 **Windows Defender Disabler** is a simple, portable utility that allows you to quickly disable Windows Defender Real-Time Protection, Tamper Protection, and related security features when needed for software installation or troubleshooting.
 
-<img width="512" height="512" alt="c0bf2aca-34ce-41e2-9f7b-f6a5fd7befba" src="https://github.com/user-attachments/assets/47bc8253-21b3-4ad6-990c-37f136757db2" />
+<img width="112" height="112" alt="c0bf2aca-34ce-41e2-9f7b-f6a5fd7befba" src="https://github.com/user-attachments/assets/47bc8253-21b3-4ad6-990c-37f136757db2" />
 
 ## Install
 [Download `Windows-Defender-Disabler.zip`](https://github.com/GamingVijay991/Windows-Defender-Disabler/releases/latest/download/Windows-Defender-Disabler.zip)
